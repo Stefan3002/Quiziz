@@ -1,8 +1,24 @@
 # Quiziz 🎯
 
-[Live Demo](https://stefan3002.github.io/Quiziz/)
+[Live Demo](https://quiziz.stefansecrieru.com)
 
 This is my submission for the **ZTM (Zero To Mastery) Challenge #44** — the goal was to build a complete application in **a single HTML file** using only **Vanilla JS, CSS, and HTML**. Despite this limitation, the app is fully functional and easily extendable.
+
+---
+
+## Timestamps
+
+- Initial commit: 08 July 2023
+- Complete visual remake: 15 July 2025
+
+---
+
+## Developer Skills Showcased
+
+- Vanilla proficiency
+- Responsive design
+- Visual design skills
+- Color theory understanding
 
 ---
 
@@ -77,18 +93,6 @@ git clone https://github.com/Stefan3002/Quiziz.git
 ## 📄 License
 
 MIT — feel free to use, modify, and share.
-
----
-
-## 👤 About the Author
-
-Created with ❤️ by **Stefan Secrieru**.
-
-- 💻 Passionate about web development.
-- 🌱 Always learning and participating in open-source challenges.
-- 🔗 Check out more of my projects on [GitHub](https://github.com/Stefan3002)
-
-"""
 
 ---
 
